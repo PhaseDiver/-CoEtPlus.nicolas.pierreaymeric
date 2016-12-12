@@ -1,0 +1,17 @@
+.bandeau{background: lightblue}
+
+.footeri{background:grey;
+}
+
+
+#footericon{
+	margin:0;
+	padding:0;
+	display:inline-block;
+}
+
+#footercontent{
+	margin:0;
+	padding:0;
+	display:inline-block;
+}
