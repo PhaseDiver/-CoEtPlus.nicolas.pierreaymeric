@@ -1,0 +1,25 @@
+* commit a6ca95cd63b463b3f91d22cc11efbe03501e494f
+| Author: Harbinger Vakarian <Harbinger Vakarian>
+|
+|     debut du theme wordpress
+|
+* commit da10086974258c50dc716c8788bbf3872afec3d3
+| Author: Harbinger Vakarian <Harbinger Vakarian>
+|
+|     voici la dernière version de ma maquette
+|
+* commit 63ae40d4597bc332b4729716c24d3e9126fb3584
+| Author: Harbinger Vakarian <Harbinger Vakarian>
+|
+|     bonne version je l'espère
+|
+* commit 4e117ddfbeb7ca58c8c90651928bb809c6c83007
+| Author: Harbinger Vakarian <Harbinger Vakarian>
+|
+|     j'arrive plus a faire les branches
+|
+* commit 2c16e581d800cfc5fc9beb24836818ee3d05ade4
+| Author: Harbinger Vakarian <Harbinger Vakarian>
+|
+:
+
